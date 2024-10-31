@@ -3,4 +3,4 @@
 
 Weather App
 
-![Day 01](https://github.com/user-attachments/assets/c944e5de-8c50-421e-b97d-30fd868e5720)
+![Day 01](https://github.com/user-attachments/assets/65dbdd1d-3525-4c29-bb7a-0b6a1657bfb2)
