@@ -16,3 +16,21 @@ This project is a simple weather application that allows users to check the weat
 *Technologies Used:*
 - HTML, CSS for structure and styling.
 - JavaScript for making API calls and updating the UI based on user input.
+
+# Day 02
+
+**To-do App**
+
+![Day 02](https://github.com/user-attachments/assets/a264c098-bd20-4057-af44-9af27a2b0aa8)
+
+This project is a to-do list application that allows users to add, check off, and delete tasks. Users can type a task into the input field, then click the "Add" button or press "Enter" to save it to the list. Each task can be marked as completed, appearing with a strikethrough, and can be removed by clicking a delete icon (×). The app saves tasks to local storage, so the list persists even after the page is refreshed.
+
+*Key Features:*
+
+- Adds new tasks and visually marks completed tasks.
+- Deletes tasks when the delete icon is clicked.
+- Stores tasks in local storage, ensuring the list remains after reload.
+
+*Technologies Used:*
+-HTML, CSS for layout and styling.
+-JavaScript for adding tasks, toggling completion, deleting tasks, and handling local storage.
