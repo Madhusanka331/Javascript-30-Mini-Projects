@@ -48,7 +48,6 @@ This project is a to-do list application that allows users to add, check off, an
 **Live Link** https://madhusanka331.github.io/Javascript-30-Days/Day-03%20QR%20Code%20Generator/index.html
 
 
-
 This project is a QR code generator that converts text or URLs into a QR code image. Users can enter any text or URL in the input box, and by clicking the "Generate QR Code" button, a QR code will be generated and displayed. If the input box is empty, an error animation will appear, prompting the user to enter some text.
 
 *Key Features:*
@@ -61,6 +60,9 @@ This project is a QR code generator that converts text or URLs into a QR code im
 
 - HTML, CSS for structure, styling, and animations.
 - JavaScript for handling user input, API requests, and displaying the QR code image.
+
+
+
 
 
 
