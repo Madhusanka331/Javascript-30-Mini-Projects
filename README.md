@@ -25,6 +25,8 @@ This project is a simple weather application that allows users to check the weat
 
 ![Day 02](https://github.com/user-attachments/assets/a264c098-bd20-4057-af44-9af27a2b0aa8)
 
+**Live Link** https://madhusanka331.github.io/Javascript-30-Days/Day-02%20TodoApp/index.html
+
 This project is a to-do list application that allows users to add, check off, and delete tasks. Users can type a task into the input field, then click the "Add" button or press "Enter" to save it to the list. Each task can be marked as completed, appearing with a strikethrough, and can be removed by clicking a delete icon (×). The app saves tasks to local storage, so the list persists even after the page is refreshed.
 
 *Key Features:*
@@ -42,6 +44,8 @@ This project is a to-do list application that allows users to add, check off, an
 **QR Code Generator Project**
 
 ![Day 03](https://github.com/user-attachments/assets/dc4c3d24-a6dd-49b4-94b1-07eaeef087f1)
+
+**Live Link** https://madhusanka331.github.io/Javascript-30-Days/Day-03%20QR%20Code%20Generator/index.html
 
 
 
