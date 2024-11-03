@@ -34,3 +34,28 @@ This project is a to-do list application that allows users to add, check off, an
 *Technologies Used:*
 -HTML, CSS for layout and styling.
 -JavaScript for adding tasks, toggling completion, deleting tasks, and handling local storage.
+
+# Day 03 
+
+**QR Code Generator Project**
+
+![Day 03](https://github.com/user-attachments/assets/dc4c3d24-a6dd-49b4-94b1-07eaeef087f1)
+
+
+
+This project is a QR code generator that converts text or URLs into a QR code image. Users can enter any text or URL in the input box, and by clicking the "Generate QR Code" button, a QR code will be generated and displayed. If the input box is empty, an error animation will appear, prompting the user to enter some text.
+
+*Key Features:*
+
+- Generates a QR code based on user input, using an external QR code API.
+- Displays the QR code in an image box.
+- Includes an error shake effect for empty input submissions.
+
+*Technologies Used:*
+
+- HTML, CSS for structure, styling, and animations.
+- JavaScript for handling user input, API requests, and displaying the QR code image.
+
+
+
+
