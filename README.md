@@ -62,6 +62,30 @@ This project is a QR code generator that converts text or URLs into a QR code im
 - JavaScript for handling user input, API requests, and displaying the QR code image.
 
 
+  # Day 04
+
+  **Password Toggle Project**
+  
+![Day 04](https://github.com/user-attachments/assets/c11021fa-f152-4e10-b268-0e851ae0396c)
+
+**Live Link** https://madhusanka331.github.io/Javascript-30-Days/Day-04%20Hide%20And%20Show%20Password/index.html
+
+This project provides a simple password input field with a toggle visibility feature. Users can switch between showing and hiding the password by clicking on the eye icon next to the input field. When the password is hidden, a "closed eye" icon is displayed, and when the password is visible, an "open eye" icon appears.
+
+*Key Features:*
+
+- Toggle between "password" and "text" input types to show or hide the password.
+- Changes the eye icon based on the password visibility status for a clear user experience.
+
+*Technologies Used:*
+
+- HTML, CSS for structure and styling.
+- JavaScript for the toggle functionality and icon switching.
+  
+
+  
+
+
 
 
 
