@@ -46,7 +46,7 @@ body {
   margin: 40px;
 }
 
-.gallery div img::hover {
+.gallery div img:hover {
   filter: grayscale(0);
   cursor: pointer;
   transform: scale(1.1);
