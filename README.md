@@ -89,7 +89,7 @@ This project provides a simple password input field with a toggle visibility fea
 
 ![Day 05](https://github.com/user-attachments/assets/7529edb0-cdee-4848-a93a-ebffb1207c94)
 
-**Live Link** https://madhusanka331.github.io/Javascript-30-Days/Day-05%Image-Slider/index.html
+**Live Link** https://madhusanka331.github.io/Javascript-30-Days/Day-05%20Image-Slider/index.html
 
 Description: This project showcases a horizontal image gallery where users can scroll through images using mouse wheel or by clicking on navigation buttons (back and next). The gallery supports smooth scrolling and features a hover effect for image zooming. The scroll can be controlled via mouse wheel or by clicking on "back" and "next" buttons that adjust the scroll position.
 
