@@ -81,7 +81,30 @@ This project provides a simple password input field with a toggle visibility fea
 
 - HTML, CSS for structure and styling.
 - JavaScript for the toggle functionality and icon switching.
-  
+
+
+# Day 05
+
+**Horizontal Scroll Image Gallery**
+
+![Day 05](https://github.com/user-attachments/assets/7529edb0-cdee-4848-a93a-ebffb1207c94)
+
+**Live Link** https://madhusanka331.github.io/Javascript-30-Days/Day-05%Image-Slider/index.html
+
+Description: This project showcases a horizontal image gallery where users can scroll through images using mouse wheel or by clicking on navigation buttons (back and next). The gallery supports smooth scrolling and features a hover effect for image zooming. The scroll can be controlled via mouse wheel or by clicking on "back" and "next" buttons that adjust the scroll position.
+
+*Key Features:*
+
+- Horizontal scrolling gallery with images arranged in a grid.
+- Mouse wheel support for scrolling images horizontally.
+- "Next" and "Back" buttons to navigate through images smoothly.
+- Grayscale effect on images by default, which turns into full color on hover, along with a zoom effect.
+
+
+*Technologies Used:*
+
+- HTML, CSS for structure and styling.
+- JavaScript for implementing smooth scrolling and button interaction.
 
   
 
