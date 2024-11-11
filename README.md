@@ -5,7 +5,7 @@
 
 ![Day 01](https://github.com/user-attachments/assets/65dbdd1d-3525-4c29-bb7a-0b6a1657bfb2)
 
-**Live Link** https://madhusanka331.github.io/Javascript-30-Days/Day-01%20WeatherApp/index.html
+**Live Link** https://madhusanka331.github.io/Javascript-30-Mini-Projects/Day-01%20WeatherApp/index.html
 
 This project is a simple weather application that allows users to check the weather for any city. Users can enter a city name in the input field, then click the search button or press "Enter" to display the city's current temperature, humidity, and wind speed. The app displays a weather icon based on the current conditions (e.g., rain or clear). If an invalid city name is entered, an error message appears.
 
@@ -45,7 +45,7 @@ This project is a to-do list application that allows users to add, check off, an
 
 ![Day 03](https://github.com/user-attachments/assets/dc4c3d24-a6dd-49b4-94b1-07eaeef087f1)
 
-**Live Link** https://madhusanka331.github.io/Javascript-30-Days/Day-03%20QR%20Code%20Generator/index.html
+**Live Link** https://madhusanka331.github.io/Javascript-30-Mini-Projects/Day-03%20QR%20Code%20Generator/index.html
 
 
 This project is a QR code generator that converts text or URLs into a QR code image. Users can enter any text or URL in the input box, and by clicking the "Generate QR Code" button, a QR code will be generated and displayed. If the input box is empty, an error animation will appear, prompting the user to enter some text.
@@ -68,7 +68,7 @@ This project is a QR code generator that converts text or URLs into a QR code im
   
 ![Day 04](https://github.com/user-attachments/assets/c11021fa-f152-4e10-b268-0e851ae0396c)
 
-**Live Link** https://madhusanka331.github.io/Javascript-30-Days/Day-04%20Hide%20And%20Show%20Password/index.html
+**Live Link** https://madhusanka331.github.io/Javascript-30-Mini-Projects/Day-04%20Hide%20And%20Show%20Password/index.html
 
 This project provides a simple password input field with a toggle visibility feature. Users can switch between showing and hiding the password by clicking on the eye icon next to the input field. When the password is hidden, a "closed eye" icon is displayed, and when the password is visible, an "open eye" icon appears.
 
@@ -89,7 +89,7 @@ This project provides a simple password input field with a toggle visibility fea
 
 ![Day 05](https://github.com/user-attachments/assets/7529edb0-cdee-4848-a93a-ebffb1207c94)
 
-**Live Link** https://madhusanka331.github.io/Javascript-30-Days/Day-05%20Image-Slider/index.html
+**Live Link** https://madhusanka331.github.io/Javascript-30-Mini-Projects/Day-05%20Image-Slider/index.html
 
 Description: This project showcases a horizontal image gallery where users can scroll through images using mouse wheel or by clicking on navigation buttons (back and next). The gallery supports smooth scrolling and features a hover effect for image zooming. The scroll can be controlled via mouse wheel or by clicking on "back" and "next" buttons that adjust the scroll position.
 
